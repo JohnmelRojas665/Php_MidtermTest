@@ -42,9 +42,9 @@ Option 2: Direct Download
 
     Download the ZIP file from GitHub: https://github.com/JohnmelRojas665/Php_MidtermTest
 
-    Extract the ZIP file to your web server's document root
+    Extract the ZIP file to your web server's document root (e.g., htdocs or www folder)
 
-    Access the application through your web browser
+    Access the application through your web browser (e.g., http://localhost/Php_SchoolManagementSystem)
 
 Usage
 
