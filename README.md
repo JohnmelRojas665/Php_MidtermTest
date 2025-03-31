@@ -21,7 +21,7 @@ Features
 
 Requirements
 
-    Web server with PHP support (Apache, Nginx, etc.)
+    Web server with PHP support (Apache, Nginx, Xampp etc.)
 
     PHP 7.0 or higher
 
