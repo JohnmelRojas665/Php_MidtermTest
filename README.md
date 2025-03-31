@@ -40,7 +40,7 @@ Option 1: Using GitHub
 
 Option 2: Direct Download
 
-    Download the ZIP file from GitHub: https://github.com/JohnmelRojas665/Php_MidtermProject
+    Download the ZIP file from GitHub: https://github.com/JohnmelRojas665/Php_MidtermTest
 
     Extract the ZIP file to your web server's document root
 
