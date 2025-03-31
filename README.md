@@ -81,9 +81,3 @@ File Structure
     index.php - Main application file containing all the logic and HTML
 
     style.css - Stylesheet for the application
-
-Notes
-
-    All data is stored in PHP sessions and will be cleared when the browser is closed
-
-    For persistent storage, you would need to modify the application to use a database
